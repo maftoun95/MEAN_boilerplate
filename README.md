@@ -1,5 +1,8 @@
 DELETE .TXT FILES, they are only for tracking empty folders
+
 DELETE .VSCODE FOLDER, if you actually need it vs code will build it for you
+
+DELETE THIS README, it will not be relevant to your project
 
 server is set to run on port 8000
 
